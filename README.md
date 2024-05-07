@@ -1,7 +1,6 @@
-# OPENING AND CLOSING
+# Exp:10 OPENING AND CLOSING
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
-
 ## Software Required
 Anaconda - Python 3.7
 OpenCV
@@ -55,10 +54,8 @@ plt.axis("off")
 # Output:
 Display the input Image
 ![326241337-ecea916f-3d46-47e0-a0d1-3b2844b407eb](https://github.com/Sabariakash22009103/OPENING--AND-CLOSING/assets/119390227/2a87c64d-ba78-4595-81d0-519530b0d116)
-
 Display the result of Opening
 ![326241342-3a6027e5-f105-437e-a11f-b9e255ba32ae](https://github.com/Sabariakash22009103/OPENING--AND-CLOSING/assets/119390227/e53f4061-6a68-474b-b1c5-98a57c458914)
-
 Display the result of Closing
 ![326241354-eb44b501-9cdb-4871-bd38-8f40e9e2ffe1](https://github.com/Sabariakash22009103/OPENING--AND-CLOSING/assets/119390227/e1d210c8-9add-4496-8f18-190065c455c0)
 
